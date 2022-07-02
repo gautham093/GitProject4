@@ -3,6 +3,7 @@ public class Test {
 
 	public static void main(String[] args) {
 
+		String name ="smith";
 		String hungry = "No";
 		
 		if (hungry == "Yes") {
@@ -12,5 +13,6 @@ public class Test {
 		}
 	}
 
+	
 }
 	
